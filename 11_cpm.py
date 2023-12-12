@@ -1,3 +1,5 @@
+# Critical Path Method
+
 import streamlit as st
 import networkx as nx
 

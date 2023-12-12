@@ -1,3 +1,5 @@
+# Noth West Corner Method
+
 import streamlit as st
 import numpy as np
 
